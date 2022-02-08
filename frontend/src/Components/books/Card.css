@@ -1,0 +1,13 @@
+.main {
+  width: 20%;
+  margin: 3% 0 0 9%;
+  display: inline-block;
+  overflow: hidden;
+  padding: 0 30px;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
+.text-edit {
+  width: 400px;
+}
